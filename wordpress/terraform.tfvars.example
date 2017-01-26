@@ -1,0 +1,16 @@
+# provider aws
+aws_access_key = ""
+aws_secret_key = ""
+aws_region     = ""
+
+# amis (Optional, default "ami-be4a24d9")
+aws_wordpress_ami = ""
+
+# aws_key_pair
+ssh_public_key_name = ""
+ssh_public_key_path = ""
+ssh_private_key_path = ""
+
+# RDS parametor
+aws_db_instance_username = ""
+aws_db_instance_password = ""
